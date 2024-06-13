@@ -23,6 +23,7 @@ requirements:
       - cfunits
       - lxml
   pip:
+    - ncarrays
     - grids
     - cfbuild
     - ncarrays
