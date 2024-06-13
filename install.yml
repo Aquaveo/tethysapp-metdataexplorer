@@ -26,4 +26,5 @@ requirements:
     - ncarrays
     - grids
     - cfbuild
+    - ncarrays
 post:
